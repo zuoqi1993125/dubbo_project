@@ -18,8 +18,8 @@ public class test {
 		int y =1111;
 		ClassPathXmlApplicationContext app=new ClassPathXmlApplicationContext("applicationContext.xml");
 		app.start();
-		int A=111;
-		System.out.println(A);
+		int B=111;
+		System.out.println(B);
 		
 		int y2 =1111;
 		ClassPathXmlApplicationContext app1=new ClassPathXmlApplicationContext("applicationContext.xml");
