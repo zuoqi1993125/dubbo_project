@@ -12,8 +12,8 @@ public class test {
 		// TODO Auto-generated method stub
 		ClassPathXmlApplicationContext app=new ClassPathXmlApplicationContext("applicationContext.xml");
 		app.start();
-		ProviderService provider=(ProviderService) app.getBean("providerService");
-		System.out.println(provider.getName());
+		int A=111;
+		System.out.println(A);
 		
 	}
 
