@@ -12,5 +12,6 @@
 <body>
 <h2>Hello World!</h2>
 <h3>nihao</h3>
+<input type="text" value="niha0">
 </body>
 </html>
